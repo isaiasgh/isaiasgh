@@ -1,3 +1,9 @@
+<div style="width: 100%; height: 300px; overflow: hidden; position: relative;">
+    <img src="./images/banner.jpeg" alt="banner" style="width: 100%; height: auto; position: absolute; top: 0; left: 0;">
+</div>
+
+<br>
+
 ![](https://komarev.com/ghpvc/?username=isaiasgh&color=lightgrey&style=flat-square)
 
 <div align="center"><h1>¡Hola! 👋 Soy Joel Guamaní</h1></div>
