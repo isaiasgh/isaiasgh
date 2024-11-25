@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=isaiasgh&color=lightgrey&style=flat-square)
 
-<div align="center"><h1>¡Hola! 👋 Soy Joel Guamaní</h2></div>
+<div align="center"><h1>¡Hola! 👋 Soy Joel Guamaní</h1></div>
 
 ## 🧑‍💻 Sobre mí
 Soy Joel, estudiante de Ingeniería en Ciencias Computacionales. Trabajo como Java Developer Trainee y tengo experiencia en desarrollo backend con Spring Boot, creación de APIs y tecnologías web. Me apasionan el cine, la música y los videojuegos. 🚀
@@ -12,7 +12,6 @@ Soy Joel, estudiante de Ingeniería en Ciencias Computacionales. Trabajo como Ja
 - 🌐 **Sitio web:** [isaiasgh.github.io](https://isaiasgh.github.io)
 
 ## 🛠️ Tecnologías
-
 <p align="center">
     <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,postman" style="width:45%"/>
     <br>
