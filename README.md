@@ -1,6 +1,4 @@
-<div style="width: 100%; height: 300px; overflow: hidden; position: relative;">
-    <img src="./images/banner.jpeg" alt="banner" style="width: 100%; height: auto; position: absolute; top: 0; left: 0;">
-</div>
+<img src="./images/banner.png" alt="banner">
 
 <br>
 
@@ -28,6 +26,15 @@ Soy Joel, estudiante de Ingeniería en Ciencias Computacionales. Trabajo como Ja
 *  [CryptoExchange-System: ](https://github.com/isaiasgh/CryptoExchange-System) Simulador de compra y venta de criptomonedas en Java, permitiendo a los usuarios realizar transacciones y gestionar balances.
 *  [AutoTrade: ](https://github.com/Izaako04/EST.DATOS_1P_G4_PROY) Simulador de compra y venta de autos utilizando estructuras de datos como listas enlazadas, mapas, pilas y colas.
 *  [Guess the animal: ](https://github.com/Izaako04/PROY2_ED) Juego de adivinanza de animales que utiliza árboles binarios de búsqueda y colas de prioridad para gestionar las decisiones.
+
+## 📊 Mis stats
+
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaiasgh&title_color=C2C2C2&layout=compact&&langs_count=4&theme=transparent&text_color=9b9b9b" alt="Top Langs" style="width: 40%; height: auto;"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=isaiasgh&hide=stars&show_icons=true&theme=transparent&title_color=C2C2C2&text_color=9b9b9b&icon_color=C2C2C2&rank_icon=github" alt="Anurag's GitHub stats" style="width: 55%; height: auto;"/>
+</div>
+
+
 
 ## Contáctame
 <p align="left">
